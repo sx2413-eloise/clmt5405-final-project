@@ -1,0 +1,13 @@
+name: sst-final-project
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - xarray
+  - zarr
+  - dask
+  - numpy
+  - pandas
+  - matplotlib
+  - cartopy
+  - jupyterlab
